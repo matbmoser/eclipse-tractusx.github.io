@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkeclipse_tractusx_github_io=self.webpackChunkeclipse_tractusx_github_io||[]).push([[18284],{50376:t=>{t.exports=JSON.parse('{"blogBasePath":"/next-eclipse-tractusx.github.io/community/meeting-minutes","blogTitle":"Open meeting minutes","authorsListPath":"/next-eclipse-tractusx.github.io/community/meeting-minutes/authors"}')}}]);
